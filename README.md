@@ -3,6 +3,9 @@
 Selenium test developed in order to check functioning with Xvfb and Firefox in headless mode. 
 
 Test was run on CentOS 7.2.1511 
+Mozilla Firefox 45.7.0
+Google Chrome 58.0.3029.81
+ChromeDriver 2.29.461571 
 
 Prepare :  
  yum -y install firefox Xvfb libXfont Xorg 
